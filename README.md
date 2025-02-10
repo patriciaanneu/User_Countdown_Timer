@@ -6,7 +6,7 @@ Develop a <ins>**User Countdown Timer**</ins>. Create a countdown timer where th
 * Create an HTML Page:
   - Add an inout field where the user can enter a time in seconds.
   - Add a "Start Countdown" button.
-  - Display the countdown in a <div>.
+  - Display the countdown in a "<div>".
   - Add a "Reset Timer" button.
 * User JavaScript to implement the following:
   - Start Countdown (DOM Manipulation:
